@@ -1,0 +1,2 @@
+# wordcounter
+Javascript Word Counter
